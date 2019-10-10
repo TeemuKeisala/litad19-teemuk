@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace debug.code
+namespace if_task1
 {
     class Program
     {
